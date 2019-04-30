@@ -1,0 +1,13 @@
+variable "region" {}
+variable "access_key" {}
+variable "secret_key" {}
+variable "cidr_vpc" {}
+variable "cidr_sn_pb1_s3" {}
+variable "az1" {}
+variable "cidr_sn_pv1_s3" {}
+variable "cidr_sn_pv2_s3" {}
+variable "az2" {}
+variable "ami1" {}
+variable "instance_type1" {}
+variable "bastion_host_ami2" {}
+variable "instance_type2" {}
